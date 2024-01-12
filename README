@@ -1,0 +1,4 @@
+PHP = 8.3.0
+Composer version = 2.6.6
+Laravel = 10.10
+Symfony DomCrawler = composer req symfony/panther
